@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "a2be96476a109661",
+    "type": "split",
+    "children": [
+      {
+        "id": "90cbd8a3ea80ee5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28c947911304f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DeepLearning/ZJU/pathology+CT/元学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f97200972766829",
+    "type": "split",
+    "children": [
+      {
+        "id": "d03f420d010770ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e438c3bed19c0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c39f2da736306a60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fa954e6665caa45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "0de99f51f08aa4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "90615b23b0353d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d912ec9c6b43cb71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DeepLearning/ZJU/pathology+CT/元学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c68134ddae9cd3e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DeepLearning/ZJU/pathology+CT/元学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bde453a213b65e96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbcd54c8fbc955a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DeepLearning/ZJU/pathology+CT/元学习.md"
+              }
+            }
+          },
+          {
+            "id": "6efcd5486cc1acce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "83e438c3bed19c0b",
+  "lastOpenFiles": [
+    "DeepLearning/ZJU/pathology+CT",
+    "DeepLearning/3D卷积.md",
+    "DeepLearning/激活函数/softplus激活函数.md",
+    "DeepLearning/模型代码/vit.md",
+    "DeepLearning/模型代码/resnet2d.md",
+    "DeepLearning/ZJU/pathology+CT/Multimodal Learning with Severely Missing Modality.md",
+    "DeepLearning/ZJU/pathology+CT/Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning.md",
+    "DeepLearning/ZJU/pathology+CT/元学习.md",
+    "DeepLearning/ZJU/pathology+CT/总结报告/总结汇报2.md",
+    "DeepLearning/ZJU/pathology+CT/数据预处理/CT数据新版预处理.md",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/数据集处理.md",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/模型训练.md",
+    "DeepLearning/ZJU/pathology+CT/不同的模型/多示例学习.md",
+    "DeepLearning/ZJU/不同的模型/注意力机制.md",
+    "DeepLearning/ZJU/pathology+CT/不同的模型/多模态学习.md",
+    "Leetcode/欧拉回路.md",
+    "Leetcode/俩有序数组中第N大的数.md",
+    "Leetcode/合并多个列表（大顶堆）.md",
+    "Leetcode/第k小个数.md",
+    "Leetcode/并查集.md",
+    "Leetcode/滑动窗口/438. 找到字符串中所有字母异位词.md",
+    "Leetcode/动态规划/完全背包.md",
+    "Leetcode/动态规划/01背包.md",
+    "Leetcode/动态规划/多重背包.md",
+    "Leetcode/单调队列.md/单调队列.md",
+    "Leetcode/attachments/Pasted image 20240512091756.png",
+    "DeepLearning/ZJU/pathology+CT/数据预处理",
+    "vim/vim快捷键.md",
+    "vim",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/Pasted image 20240720212728.png",
+    "DeepLearning/ZJU/pathology+CT/总结报告/attachments/Pasted image 20240703202119.png",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/Pasted image 20240718134502.png",
+    "DeepLearning/ZJU/pathology+CT/病理/assets/image-20240710184957687.png",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/74184e40da321e314327373b97f7f72.png",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/Pasted image 20240707094634.png",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/Pasted image 20240706213310.png",
+    "DeepLearning/ZJU/pathology+CT/数据集处理/attachments/Pasted image 20240706214934.png",
+    "DeepLearning/ZJU/病理/CLAM",
+    "DeepLearning/ZJU/pathology+CT/病理/assets",
+    "DeepLearning/ZJU/pathology+CT/attachments/Pasted image 20240706213310.png",
+    "Leetcode/单调队列.md/单调队列.md.kdtmp",
+    "大三下学期/图形学/作业2/许一涵实验报告.md/许一涵实验报告.md.kdtmp",
+    "大三下学期/图形学/attachments/NJTU_JXJDJB.doc",
+    "大二上学期/数据结构/储物袋/堆排序动画演示 - 001 - 堆排序.mp4"
+  ]
+}
