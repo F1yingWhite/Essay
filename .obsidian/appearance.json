@@ -1,5 +1,6 @@
 {
   "translucency": true,
   "baseFontSizeAction": true,
-  "textFontFamily": "JetBrainsMono Nerd Font Mono"
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "cssTheme": "Typora-Vue"
 }
